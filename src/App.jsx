@@ -25,6 +25,8 @@ export default function App() {
     }, [activeTab]); // Dependency me activeTab daala taaki jab tab change ho to check ho
 
 
+
+
     return (
         <div className="w-full min-h-screen bg-slate-900 font-inter">
             {/* Navbar activeLink aur setActiveLink ko prop ke through le raha hai */}
