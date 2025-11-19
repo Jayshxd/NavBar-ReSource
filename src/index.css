@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: 'Axis';
+    src: url('./assets/axis.otf') format('truetype');
+}
+
+.axis {
+    font-family: 'Axis', sans-serif;
+}
+
+
+@font-face {
+    font-family: 'Azonix';
+    src: url('./assets/Azonix.otf') format('truetype');
+}
+
+.azonix {
+    font-family: 'Azonix', sans-serif;
+}
